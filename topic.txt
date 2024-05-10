@@ -1,0 +1,9 @@
+margin / padding
+position
+1)relative
+2)absolute
+3)sticky 
+4)fixed 
+
+
+display flex 
